@@ -1,2 +1,5 @@
 # learn_rust
-Some fundamental exercises about Rust.
+
+参照《Rust程序设计语言》学习时的一些练习代码
+
+*语言神，启动！*
