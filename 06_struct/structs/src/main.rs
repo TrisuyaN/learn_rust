@@ -97,3 +97,10 @@ fn unit_like_structs(){
         name: String,
     }
 }
+
+struct User {
+    active: bool,
+    username: &str, // can't store ref without lifetime specifier
+    email: &str,
+    sign_in_count: u64,
+}
